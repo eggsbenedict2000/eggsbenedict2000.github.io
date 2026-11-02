@@ -1,2 +1,2 @@
 # eggsbenedict2000.github.io
-Weather app 
+A simple weather app that you can enter your location or select it on a map
